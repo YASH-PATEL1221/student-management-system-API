@@ -1,0 +1,1 @@
+Routes = [require("./Routes/Admin/admin")]
